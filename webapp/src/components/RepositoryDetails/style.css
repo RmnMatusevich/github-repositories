@@ -1,0 +1,13 @@
+.repositories {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 16px 0;
+  overflow-x: scroll;
+}
+
+.webhooks {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
